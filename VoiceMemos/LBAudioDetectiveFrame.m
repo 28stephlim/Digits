@@ -6,6 +6,9 @@
 //  Copyright (c) 2013 Laurin Brandner. All rights reserved.
 //
 
+//Modified by Stephanie Lim, Chris, Jordan
+//Sole purpose for FYP only
+
 #import "LBAudioDetectiveFrame.h"
 
 typedef struct LBAudioDetectiveFrame {
